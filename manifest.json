@@ -1,28 +1,26 @@
 {
   "assets": [
-    {
-      "version": "310.5.0",
-      "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.5.0.zip"
-    },
-    {
-      "version": "310.4.0",
-      "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.4.0.zip"
-    },
-    {
-      "version": "310.3.0",
-      "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.3.0.zip"
-    },
-    {
-      "version": "310.2.1",
-      "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.2.1.zip"
-    },
-    {
-      "version": "310.2.0",
-      "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.2.0.zip"
-    },
-    {
-      "version": "310.0.0",
-      "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.0.zip"
-    }
+    { "version": "310.5.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.5.0.zip" },
+    { "version": "310.4.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.4.0.zip" },
+    { "version": "310.3.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.3.0.zip" },
+    { "version": "310.2.1", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.2.1.zip" },
+    { "version": "310.2.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.2.0.zip" },
+    { "version": "310.0.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A1/nvngx_dlss_310.0.zip" },
+    
+    { "version": "310.5.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A2/nvngx_dlssg_310.5.0.zip" },
+    { "version": "310.4.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A2/nvngx_dlssg_310.4.0.zip" },
+    { "version": "310.3.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A2/nvngx_dlssg_310.3.0.zip" },
+    { "version": "310.2.1", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A2/nvngx_dlssg_310.2.1.zip" },
+    { "version": "310.2.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A2/nvngx_dlssg_310.2.zip" },
+    { "version": "310.1.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A2/nvngx_dlssg_310.1.zip" },
+    { "version": "310.0.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A2/nvngx_dlssg_310.0.zip" },
+
+    { "version": "310.5.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A3/nvngx_dlssd_310.5.0.zip" },
+    { "version": "310.4.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A3/nvngx_dlssd_310.4.0.zip" },
+    { "version": "310.3.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A3/nvngx_dlssd_310.3.0.zip" },
+    { "version": "310.2.1", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A3/nvngx_dlssd_310.2.1.zip" },
+    { "version": "310.2.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A3/nvngx_dlssd_310.2.zip" },
+    { "version": "310.1.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A3/nvngx_dlssd_310.1.zip" },
+    { "version": "310.0.0", "url": "https://github.com/Hannover2k/asset-storage/releases/download/A3/nvngx_dlssd_310.0.zip" }
   ]
 }
